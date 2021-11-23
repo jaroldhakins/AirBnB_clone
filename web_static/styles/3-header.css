@@ -4,6 +4,6 @@ header {
     height: 70px;
     border-bottom: 1px solid #CCCCCC;
     display: flex;
-    align-items: center;
-    background: url("../images/logo.png") no-repeat center;
+    align-items: left;
+    background: url("../images/logo.png") no-repeat left;
 }
